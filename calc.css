@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 20px;
+    margin: 8px;
+    height: 5px;
+    width: 5px;
+   border-radius: 8px;
+   text-align: center;
+   border: 3px solid #78C1F3;
+   background-color: #F8FDCF;
+
+}
+.input{
+    width: 225px;
+    height: 30px;
+    border: 3px solid #78C1F3;
+    background-color: #F8FDCF;
+    border-radius: 4px;
+}
