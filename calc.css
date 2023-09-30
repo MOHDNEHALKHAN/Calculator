@@ -4,16 +4,29 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 150px;
 }
+.calc{
+    width: 300px;
+    background-color: #FFB000;
+    border-radius: 10px;
+}
+.col{
+    text-align: center;
+}
+.row{
+    text-align: center;
+}
+
 button{
     font-family: 'Roboto', sans-serif;
-    padding: 20px;
+    font-size: medium;
     margin: 8px;
     height: 50px;
     width: 50px;
-   border-radius: 8px;
+   border-radius: 16px;
    text-align: center;
-   border: 3px solid #78C1F3;
+   border: 3px ;
    background-color: #F8FDCF;
 
 }
@@ -27,4 +40,7 @@ button{
 }
 #span{
     width: 120px;
+}
+button:hover{
+    background-color: #78C1F3;
 }

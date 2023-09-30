@@ -2,11 +2,9 @@
 h2{
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: #43CFCD;
+    color: white;
 }
 body{
     background-color: #845EC2;
 }
-.container{
-    margin-top: 150px;
-}
+
