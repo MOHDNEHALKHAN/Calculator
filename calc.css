@@ -7,6 +7,7 @@
     margin-top: 150px;
 }
 .calc{
+    height: 450px;
     width: 300px;
     background-color: #FFB000;
     border-radius: 10px;
@@ -33,10 +34,11 @@ button{
 .input{
     width: 250px;
     height: 30px;
+    padding-left: 10px;
     font-size: 20px;
-    border: 3px solid #78C1F3;
+    border: 3px solid #845ec2;
     background-color: #F8FDCF;
-    border-radius: 4px;
+    border-radius: 10px;
 }
 #span{
     width: 120px;
