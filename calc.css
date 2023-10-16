@@ -29,6 +29,7 @@ button{
    text-align: center;
    border: 3px ;
    background-color: #F8FDCF;
+   border: 3px solid #845ec2;
 
 }
 .input{
@@ -45,4 +46,5 @@ button{
 }
 button:hover{
     background-color: #78C1F3;
+    border: none;
 }
